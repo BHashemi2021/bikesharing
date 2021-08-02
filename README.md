@@ -104,7 +104,7 @@ The resulting DataFrame is displayed in Figure 1.
 
 ### 1- The Tableau Story
 
-The Tableau Story created about the bike trip is available at [this web address](https://public.tableau.com/app/profile/be.h1774/viz/NYCCitiBikeSharingAnalysis/DesMoinsBikeSharing#3) on Tableau website.
+The Tableau Story created about Citi Bike trip analysis is available at [this web address](https://public.tableau.com/app/profile/be.h1774/viz/NYCCitiBikeSharingAnalysis/DesMoinsBikeSharing#3) on Tableau website.
 
 
 
