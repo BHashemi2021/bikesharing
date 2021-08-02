@@ -108,10 +108,11 @@ The Tableau Story created about the bike trip is available at [this web address]
 
 
 
-### The Software Used in this challenge
+### The Software Used in this undertaking
 
 `   * Jupyter Notebook
     * Python v.3.8.5 through Conda 4.10.1 
-    * Tableau Public 
+    * Tableau Desktop Public Edition
+    * Tableau Web Edition
     * Pandas 
     
