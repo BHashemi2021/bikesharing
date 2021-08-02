@@ -83,15 +83,15 @@ The resulting DataFrame is displayed in Figure 1.
 
 ### D- Trips by Weekday per Hour (Figure 5)
 
-#### Figure 5:  
+#### Figure 5: Trips by Weekday per Hour   
 ----------------------------
 ![trips-by-weekday-per-hour.png](https://github.com/BHashemi2021/bikesharing/blob/main/resources/images/trips-by-weekday-per-hour.png)
 
 -----------------------------
 
-### E- Trips by Weekday per Hour (Figure 6)
+### E- User Trips by Gender by Weekday (Figure 6)
 
-#### Figure 6:  
+#### Figure 6: User Trips by Gender by Weekday
 ----------------------------
 ![user-trips-by-gender-by-weekday.png](https://github.com/BHashemi2021/bikesharing/blob/main/resources/images/user-trips-by-gender-by-weekday.png)
 
@@ -104,7 +104,7 @@ The resulting DataFrame is displayed in Figure 1.
 
 ### 1- The Tableau Story
 
-The Tableau Story created about the bike trip is available on Tableau Public Website at [this web address](https://public.tableau.com/app/profile/be.h1774/viz/NYCCitiBikeSharingAnalysis/DesMoinsBikeSharing#3) on Tableau website.
+The Tableau Story created about the bike trip is available at [this web address](https://public.tableau.com/app/profile/be.h1774/viz/NYCCitiBikeSharingAnalysis/DesMoinsBikeSharing#3) on Tableau website.
 
 
 
