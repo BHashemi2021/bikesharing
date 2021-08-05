@@ -110,9 +110,9 @@ The Tableau Story created about Citi Bike trip analysis is [available at this we
 
 ### The Software Used in this undertaking
 
-`   * Jupyter Notebook
+    * Jupyter Notebook
     * Python v.3.8.5 through Conda 4.10.1 
-    * Tableau Desktop Public Edition
+    * Tableau Public Desktop Edition (v.2021-2-0)
     * Tableau Web Edition
     * Pandas 
     
